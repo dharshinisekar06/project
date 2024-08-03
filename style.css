@@ -207,7 +207,7 @@ border-left:0.5rem solid var(--clr-secondary);
 
 .header{
     min-height: 100vh;
-    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("https://www.littlelemon.ie/wp-content/uploads/IMG_9628-1154x1600.jpg") center/cover no-repeat fixed;
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("icon/banner.jpg") center/cover no-repeat fixed;
     position: relative;
 }
 .banner{
